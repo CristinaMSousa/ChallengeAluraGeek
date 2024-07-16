@@ -1,0 +1,58 @@
+{
+  "produtos": [
+    {
+      "id": "3",
+      "imagem": "https://img.freepik.com/vetores-gratis/bonito-shiba-inu-cao-robo-dos-desenhos-animados-vector-icon-ilustracao-conceito-de-icone-de-tecnologia-animal-isolado_138676-6620.jpg?ga=GA1.1.2141708342.1694021314&semt=ais_user",
+      "nome": "Cat",
+      "preco": "$30.00"
+    },
+    {
+      "id": "5",
+      "imagem": "https://img.freepik.com/fotos-gratis/gato-fofo-com-computador_23-2150932178.jpg?ga=GA1.1.2141708342.1694021314&semt=ais_user",
+      "nome": "Compy Cat",
+      "preco": "$40.00"
+    },
+    {
+      "id": "6",
+      "imagem": "https://img.freepik.com/fotos-gratis/gato-fofo-dentro-de-casa_23-2150932260.jpg?ga=GA1.1.2141708342.1694021314&semt=ais_user",
+      "nome": "Cat in House",
+      "preco": "$55.00"
+    },
+    {
+      "id": "10",
+      "imagem": "https://img.freepik.com/fotos-gratis/gato-fofo-dentro-de-casa_23-2150932260.jpg?ga=GA1.1.2141708342.1694021314&semt=ais_user",
+      "nome": "Speed Cat",
+      "preco": "$25.00"
+    },
+    {
+      "id": "b713",
+      "imagem": " https://img.freepik.com/fotos-gratis/gato-fofo-dentro-de-casa_23-2150932260.jpg?ga=GA1.1.2141708342.1694021314&semt=ais_user",
+      "nome": "gatao",
+      "preco": "$50.00"
+    },
+    {
+      "id": "636e",
+      "imagem": " https://img.freepik.com/fotos-gratis/gato-fofo-dentro-de-casa_23-2150932260.jpg?ga=GA1.1.2141708342.1694021314&semt=ais_user",
+      "nome": "gatao",
+      "preco": "$50.00"
+    },
+    {
+      "id": "6864",
+      "imagem": " https://img.freepik.com/fotos-gratis/gato-fofo-dentro-de-casa_23-2150932260.jpg?ga=GA1.1.2141708342.1694021314&semt=ais_user",
+      "nome": "gatao",
+      "preco": "$50.00"
+    },
+    {
+      "id": "f405",
+      "imagem": " https://img.freepik.com/fotos-gratis/gato-fofo-dentro-de-casa_23-2150932260.jpg?ga=GA1.1.2141708342.1694021314&semt=ais_user",
+      "nome": "gatao",
+      "preco": "$50.00"
+    },
+    {
+      "id": "0e32",
+      "imagem": " https://img.freepik.com/fotos-gratis/gato-fofo-dentro-de-casa_23-2150932260.jpg?ga=GA1.1.2141708342.1694021314&semt=ais_user",
+      "nome": "gatao",
+      "preco": "$50.00"
+    }
+  ]
+}
